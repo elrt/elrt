@@ -1,10 +1,6 @@
 <div align="center">
 
 # Hello there!
-
-**Systems Programmer & Low-Level Developer**  
-*Passionate about memory management, performance optimization, and building reliable system software*
-
 ---
 
 ### GitHub Analytics
@@ -13,18 +9,6 @@
 
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elrt&layout=compact&theme=dark&bg_color=000000&hide=html,css,javascript)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elrt&theme=dark&background=000000&hide_border=true)
-
-### GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=elrt&theme=darkhub&no-frame=true&row=2&column=4)
-
-### Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elrt&theme=react-dark&bg_color=000000&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ### About Me
 
