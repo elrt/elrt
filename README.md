@@ -24,24 +24,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elrt&theme=react-dark&bg_color=000000&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Current Focus
 
-**[MotiveSyz](https://github.com/elrt/MotiveSyz)** - A modern C library providing safe abstractions and simplified APIs for system programming. Features include memory-safe allocations, bounds checking, and expressive output utilities.
-
-### Development Stack
-
-`C` `Assembly` `Linux` `Zed` `Debian` `GCC/Clang` `Make/CMake` `Git`
-
-### Technical Interests
-
-- **Memory Management**: Custom allocators, memory safety, zero-overhead abstractions
-- **System Programming**: Kernel development, drivers, low-level optimization
-- **Performance**: Algorithm optimization, cache efficiency, inline assembly
-- **Open Source**: Building reusable libraries and tools for the community
 
 ### About Me
 
-I'm a systems programmer focused on low-level development and performance-critical software. Currently building **MotiveSyz** - a C library that brings modern safety guarantees and expressive APIs to system programming while maintaining zero-cost abstractions.
+I'm a systems programmer focused on low-level development and performance-critical software.
 
 When I'm not coding, I'm probably learning about computer architecture, reading technical books.
 
