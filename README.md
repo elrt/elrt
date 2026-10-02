@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hello there!
----
+# You are here.
+
 
 ### Analytics
 
